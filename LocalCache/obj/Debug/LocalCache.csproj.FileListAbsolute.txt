@@ -1,0 +1,7 @@
+E:\LocalCache\LocalCache\obj\Debug\ResolveAssemblyReference.cache
+E:\LocalCache\LocalCache\bin\LocalCache.dll
+E:\LocalCache\LocalCache\bin\LocalCache.pdb
+E:\LocalCache\LocalCache\bin\TaskPlugin.dll
+E:\LocalCache\LocalCache\bin\TaskPlugin.pdb
+E:\LocalCache\LocalCache\obj\Debug\LocalCache.dll
+E:\LocalCache\LocalCache\obj\Debug\LocalCache.pdb

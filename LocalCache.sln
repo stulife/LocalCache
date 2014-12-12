@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalCache", "LocalCache\LocalCache.csproj", "{584A4D7E-3D46-4F3B-A214-7F5DFA3FF80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskPlugin", "TaskPlugin\TaskPlugin.csproj", "{5960FD1C-3C79-40E2-AF0C-B085B40F797D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584A4D7E-3D46-4F3B-A214-7F5DFA3FF80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584A4D7E-3D46-4F3B-A214-7F5DFA3FF80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584A4D7E-3D46-4F3B-A214-7F5DFA3FF80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584A4D7E-3D46-4F3B-A214-7F5DFA3FF80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5960FD1C-3C79-40E2-AF0C-B085B40F797D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5960FD1C-3C79-40E2-AF0C-B085B40F797D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5960FD1C-3C79-40E2-AF0C-B085B40F797D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5960FD1C-3C79-40E2-AF0C-B085B40F797D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

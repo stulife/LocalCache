@@ -1,0 +1,5 @@
+E:\LocalCache\TaskPlugin\obj\Debug\ResolveAssemblyReference.cache
+E:\LocalCache\TaskPlugin\bin\Debug\TaskPlugin.dll
+E:\LocalCache\TaskPlugin\bin\Debug\TaskPlugin.pdb
+E:\LocalCache\TaskPlugin\obj\Debug\TaskPlugin.dll
+E:\LocalCache\TaskPlugin\obj\Debug\TaskPlugin.pdb
